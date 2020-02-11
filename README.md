@@ -1,3 +1,3 @@
 # rsschool-cv
 
-[GitHub] https://kudryashow.github.io/rsschool-cv/cv
+[GitHub] https://github.com/Kudryashow/rsschool-cv/blob/gh-pages/cv
